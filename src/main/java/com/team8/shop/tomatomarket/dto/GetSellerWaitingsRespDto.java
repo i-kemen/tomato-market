@@ -16,5 +16,4 @@ public class GetSellerWaitingsRespDto {
         this.introduce = sellerRequestForm.getIntroduce();
         this.isApproval = sellerRequestForm.isApproval();
     }
-
 }
